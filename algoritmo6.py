@@ -1,5 +1,5 @@
 #algoritmo que receba a temperatura em graus Celsius e apresente o valor convertido para graus Fahrenheit.
-#Lê a temperatura em graus Celcius e converte para float
+#Lê a temperatura em graus Celcius
 temp_celsius = float(input("Informe a temperatura em graus Ceulsius: "))
 #Calcula a temperatura em graus Fahrenheit
 temp_fahrenheit = (temp_celsius * 9/5) + 32

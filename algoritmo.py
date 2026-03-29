@@ -1,8 +1,8 @@
 # Algoritmo que recebe dois números e os multiplica
-# Lê o primeiro número e converte para inteiro
-N1 = int(input("Informe um número: "))
+# Lê o primeiro número
+N1 = float(input("Informe um número: "))
 # Lê o segundo número e converte para inteiro
-N2 = int(input("Informe outro número: "))
+N2 = float(input("Informe outro número: "))
 # Faz a multiplicação 
 R = N1 * N2
 # Mostra o resultado 
