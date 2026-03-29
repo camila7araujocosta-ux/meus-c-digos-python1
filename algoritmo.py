@@ -7,5 +7,3 @@ N2 = int(input("Informe outro número: "))
 R = N1 * N2
 # Mostra o resultado 
 print("O resultado da multiplicação é: ",R)
-#mostre resultado da multiplicação 
-print("O resultado da multiplicação é: ", R)
